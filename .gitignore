@@ -2,3 +2,8 @@
 node_modules
 .tmp
 npm-debug.log
+src/DataCamp/PyTorch-OOP/data/cifar-10-python.tar.gz
+__pycache__/
+*.pyc
+src/DataCamp/PyTorch-OOP/cnn.pth
+src/DataCamp/PyTorch-OOP/data/cifar-10-batches-py/
