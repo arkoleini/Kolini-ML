@@ -20,5 +20,6 @@
   "workbench.colorTheme": "Night Owl",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "python.linting.pylintCategorySeverity.convention": "Hint"
+  "python.linting.pylintCategorySeverity.convention": "Hint",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
